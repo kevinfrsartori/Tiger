@@ -38,3 +38,4 @@ bcftools query -f '[%DP]\n' $vcfdir/DKCr_16_1377.mono.vcf | sort | uniq -c  > WG
 
 # 3.3 - check WG_DP file and filter per DP accordingly
 # Decision was made to filter above 4 and below 51
+# See 02-VariantFiltration.sh
