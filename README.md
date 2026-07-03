@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Tiger
 
 Collection of scripts for genotyping RILs from low coverage sequencing.
